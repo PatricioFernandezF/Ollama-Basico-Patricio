@@ -1,1 +1,0 @@
-# Ollama-Basico-Patricio
